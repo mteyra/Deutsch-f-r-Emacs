@@ -7,7 +7,7 @@ However for now it is a playground for myself, wherein I write my daily diary in
 ## Functions: <br/>
 ### Incorperated Google-Translate package, attached to a specific keybinding. <br/>
 - spc t d (for translating to german)
-- spc t e (for translating to english) <br/>
+- spc t e (for translating to english)
 <br/> <br/>
 ### Incorperated a personal Word Vault file, wherin one can send words to and see what they should work on. <br/>
 - spc e e (add selected word to wordvault/personaldictionary)
