@@ -4,7 +4,7 @@ An emacs configuration for .de or .deutsch filetypes.
 Ideally, this project will grow into a module for Language learning on Emacs. <br/>
 However for now it is a playground for myself, wherein I write my daily diary in german using ".de", until I've tweeked it to perfection. <br/>
 <br/>
-<h3> Functions: <h3> <br/>
+<h3> Functions: <br/>
 Incorperated Google-Translate package, attached to a specific keybinding. <br/>
 - spc t d (for translating to german)
 - spc t e (for translating to english) <br/>
