@@ -7,7 +7,7 @@ However for now it is a playground for myself, wherein I write my daily diary in
 Functions: <br/>
 Incorperated Google-Translate package, attached to a specific keybinding. <br/>
 - spc t d (for translating to german)
-- spc t e (for translating to english)
+- spc t e (for translating to english) <br/>
 <br/> <br/>
 Incorperated a personal Word Vault file, wherin one can send words to and see what they should work on. <br/>
 - spc e e (add selected word to wordvault/personaldictionary)
@@ -16,7 +16,7 @@ Incorperated a personal Word Vault file, wherin one can send words to and see wh
 Colorcoding while typing. (WORK IN PROGRESS) <br/>
 A Full German wordlist made by "" was used in order to check text in comparison. <br/>
 - Green: When a word exists in the file.
-- Red: When a word doesn't exist in the file.
+- Red: When a word doesn't exist in the file. <br/>
 A command can be used to toggle the colors on and off. <br/>
-<br/>
+<br/> <br/>
 Any future functions will be provided below when added.
