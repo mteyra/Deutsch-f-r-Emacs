@@ -8,7 +8,7 @@ However for now it is a playground for myself, wherein I write my daily diary in
 ### Incorperated Google-Translate package, attached to a specific keybinding. <br/>
 - spc t d (for translating to german)
 - spc t e (for translating to english) <br/>
-<br/> <br/>
+<br/>
 ### Incorperated a personal Word Vault file, wherin one can send words to and see what they should work on. <br/>
 - spc e e (add selected word to wordvault/personaldictionary)
 - spc q q (remove selected word from wordvault/personaldictionary)
@@ -20,3 +20,4 @@ A Full German wordlist made by "" was used in order to check text in comparison.
 A command can be used to toggle the colors on and off. <br/>
 <br/> 
 ### Any future functions will be provided below when added.
+<br/>
