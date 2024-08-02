@@ -17,6 +17,6 @@ However for now it is a playground for myself, wherein I write my daily diary in
 A Full German wordlist made by "" was used in order to check text in comparison. <br/>
 - Green: When a word exists in the file.
 - Red: When a word doesn't exist in the file. <br/>
-A command can be used to toggle the colors on and off. <br/>
-<br/> 
+A command can be used to toggle the colors on and off. 
+<br/> <br/>
 ### Any future functions will be provided below when added.
