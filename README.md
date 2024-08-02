@@ -20,4 +20,3 @@ A Full German wordlist made by "" was used in order to check text in comparison.
 A command can be used to toggle the colors on and off. <br/>
 <br/> 
 ### Any future functions will be provided below when added.
-<br/>
