@@ -1,6 +1,6 @@
 # emacs-german-filetype
 An emacs configuration for .de or .deutsch filetypes.
-<br/>
+<br/> <br/>
 Ideally, this project will grow into a module for Language learning on Emacs. <br/>
 However for now it is a playground for myself, wherein I write my daily diary in german using ".de", until I've tweeked it to perfection.
 <br/>
